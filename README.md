@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DaymakerViewTool::Renderer.copyright 'Daymaker Digital', 'All rights reserved'
+```
 
 ## Development
 
